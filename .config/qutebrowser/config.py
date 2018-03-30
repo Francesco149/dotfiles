@@ -8,7 +8,7 @@ c.aliases = {
 c.auto_save.session = True
 c.content.headers.custom = { 'Masturbates-To-Anime-Girls': 'yes' }
 c.content.headers.do_not_track = True
-c.content.headers.user_agent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+#c.content.headers.user_agent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
 
 c.fonts.completion.category = 'bold 8pt monospace'
 c.fonts.completion.entry = '8pt monospace'
