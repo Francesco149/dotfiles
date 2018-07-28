@@ -10,18 +10,6 @@ c.content.headers.custom = { 'Masturbates-To-Anime-Girls': 'yes' }
 c.content.headers.do_not_track = True
 #c.content.headers.user_agent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
 
-c.fonts.completion.category = 'bold 8pt monospace'
-c.fonts.completion.entry = '8pt monospace'
-c.fonts.debug_console = '8pt monospace'
-c.fonts.downloads = '8pt monospace'
-c.fonts.hints = 'bold 10pt monospace'
-c.fonts.keyhint = '8pt monospace'
-c.fonts.messages.error = '8pt monospace'
-c.fonts.messages.info = '8pt monospace'
-c.fonts.messages.warning = '8pt monospace'
-c.fonts.prompts = '8pt sans-serif'
-c.fonts.statusbar = '8pt monospace'
-c.fonts.tabs = '8pt monospace'
 c.url.auto_search = 'naive'
 
 c.url.default_page = 'https://www.google.it'
